@@ -12,6 +12,6 @@ plotly==5.10.0
 seaborn==0.11.2
 streamlit==1.12.0
 
-<img src="https://i.etsystatic.com/5458934/r/il/d92186/1890011416/il_1140xN.1890011416_5hw9.jpg" hright="40" width="60" >
+<img src="https://i.etsystatic.com/5458934/r/il/d92186/1890011416/il_1140xN.1890011416_5hw9.jpg" hright="200" width="250" >
 
 
